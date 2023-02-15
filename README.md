@@ -4,19 +4,25 @@ This sample is an example of how to create a JWT using C# and .NET when calling 
 
 It builds a token that is valid for 30 minutes. Please obtain a set of DoorDash Credentials (Developer ID, Key ID, and Signing Secret) in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials) to use in the application. 
 
-This application targets [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0). The code source and build files provided in this repository are samples and not intended for production, and are not supported. 
+This application targets [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0). The code source and build files provided in this repository are samples and not intended for production, and are not supported.
 
 ## Running Sample
+
 Follow these steps to run the sample app:
+
 1. Clone repository locally.
-2. TODO
+2. Open Project in your .NET IDE of choice (Visual Stuido, VSCode, Rider).
+3. Update all TODO placeholder items in source.
+4. Debug or Run Project.
 
 ## More About DoorDash Credentials
+
 - [DoorDash JWT Format](https://developer.doordash.com/en-US/docs/drive/reference/JWTs/)
 - [Manage DoorDash Credentials](https://developer.doordash.com/en-US/docs/drive/how_to/manage_credentials/)
 - [Create DoorDash JSON Web Tokens (JWTs)](https://developer.doordash.com/en-US/docs/drive/how_to/JWTs)
 
 ## Related Utilities and Samples</h2>
+
 - [auth0 JWT Debugger](https://jwt.io/)
 - [DoorDash API JWT JSFiddle Sample](https://bit.ly/doordashapi)
 - [make-doordash-jwt CLI](https://github.com/infin8x/make-doordash-jwt)
@@ -24,4 +30,5 @@ Follow these steps to run the sample app:
 - [DoorDash SDK Example Application](https://github.com/doordash-oss/doordash_sdk_example_application)
 
 ## Community
+
 Please join the [DoorDash Developer Discord community](https://discord.com/channels/951208871828013066/951208872478113875) to provide feedback and ask questions about developing with the DoorDash API.
