@@ -1,4 +1,4 @@
-# DoorDash API .NET and C# Sample
+# DoorDash API C# and .NET Sample
 
 This sample is an example of how to create a JWT using .NET and C# when calling the DoorDash API. Additionally, it creates a delivery request using the JWT.
 
