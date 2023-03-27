@@ -1,6 +1,6 @@
 # DoorDash API C# and .NET Sample
 
-This sample is an example of how to create a JWT using .NET and C# when calling the DoorDash API. Additionally, it creates a delivery request using the JWT.
+This sample is an example of how to create a JWT using .NET and C# when calling the DoorDash API. Additionally, it creates a delivery request using the JWT to authenticate.
 
 It builds a token that is valid for 30 minutes. Please obtain a set of DoorDash Credentials (Developer ID, Key ID, and Signing Secret) in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials) to use in the application. 
 
@@ -11,7 +11,7 @@ This application targets [.NET 7](https://dotnet.microsoft.com/en-us/download/do
 Follow these steps to run the sample app:
 
 1. Clone repository locally.
-2. Open Project in your .NET IDE of choice (Visual Stuido, VSCode, Rider).
+2. Open the Project in your .NET IDE of choice (Visual Stuido, VSCode, Rider).
 3. Update all TODO placeholder items in source.
 4. Debug or Run Project.
 
